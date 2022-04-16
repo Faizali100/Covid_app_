@@ -18,8 +18,8 @@ import numpy as np
 #     return t_df
 
 
-st.title ( " Pandemic COVID-19 Analysis " )
-st.write (" COVID-19 is the latest infectious disease effect the whole world. Let's visualize this change over the months in spread with Python and Machine Learning.  " )
+st.title ( "Pandemic COVID-19 Analysis " )
+st.write ("COVID-19 is the latest infectious disease effect the whole world. Let's visualize this change over the months in spread with Python and Machine Learning.  " )
 
 
 # download world covid dataset 
